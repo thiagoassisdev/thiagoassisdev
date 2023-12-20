@@ -1,15 +1,13 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/thiagoassisdev/thiagoassisdev/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<p align="center">Olá muito prazer me chamo Thiago, seja bem vindo!!! 👋
 
-  <p align="center">Olá, seja bem vindo!!! 👋
-
-<p align="center">Muito prazer me chamo Thiago, profissional de recursos humanos em transição de carreira para a área que realmente amo e me identifico que é tecnologia. <br><br> Formado em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais, atualmente estou em busca de uma oportunidade de ingressar na área de programação.</p>&nbsp;
+<p align="center">Atuei mais de 10 anos na area de recursos humanos e outros 3 como empreendedor, hoje estou em transição de carreira para a área que realmente amo e me identifico que é a de tecnologia. <br><br> Formação em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais, atualmente estou em busca de uma oportunidade de ingressar na área de programação.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagoassisdev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-thiagoassisdev.vercel.app/api/top-langs/?username=thiagoassisdev&show_icons=true&theme=radical&layout=compact" />
- </div>
+
+
+</div>
  
  &nbsp;
  &nbsp;
@@ -65,7 +63,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f44336&height=120&section=footer"/>
 
 
 
