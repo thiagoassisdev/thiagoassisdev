@@ -1,7 +1,9 @@
 
 <p align="center">Olá muito prazer me chamo Thiago, seja bem vindo!!! 👋
 
-<p align="center">Atuei mais de 10 anos na area de recursos humanos e outros 3 como empreendedor, hoje estou em transição de carreira para a área que realmente amo e me identifico que é a de tecnologia. <br><br> Formação em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais, atualmente estou em busca de uma oportunidade de ingressar na área de programação.</p>&nbsp;
+<p align="center">Um pouco sobre a minha jornada, atuei mais de 10 anos na area de recursos humanos e outros 3 como empreendedor, hoje estou em transição de carreira para a área que realmente amo e me identifico que é a de tecnologia. <br><br> Sou formado em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais.
+ 
+ <p align="center">Atualmente busco uma oportunidade de ingressar na área e me desenvolver cada vez mais com novas ideias, boa performance e foco resultado.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagoassisdev&theme=radical&mode=weekly" />
@@ -63,7 +65,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b7a7a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdb91b&height=120&section=footer"/>
 
 
 
