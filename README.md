@@ -3,7 +3,7 @@
 
 <p align="center">Um pouco sobre a minha jornada, atuei mais de 10 anos na area de recursos humanos e outros 3 como empreendedor, hoje estou em transição de carreira para a área que realmente amo e me identifico que é a de tecnologia. <br><br> Sou formado em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais.
  
- <p align="center">Atualmente busco uma oportunidade de ingressar na área e me desenvolver cada vez mais com novas ideias, boa performance e foco resultado.</p>&nbsp;
+ <p align="center">Atualmente busco uma oportunidade de ingressar na área e me desenvolver cada vez mais com novas ideias, boa performance e foco nos resultados.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagoassisdev&theme=radical&mode=weekly" />
