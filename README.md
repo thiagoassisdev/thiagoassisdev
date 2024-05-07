@@ -1,9 +1,17 @@
 
-<p align="center">Olá muito prazer me chamo Thiago, seja bem vindo!!! 👋
+<p align="center">Olá! Eu sou o Thiago, um entusiasta da tecnologia em busca de novos desafios. Seja muito bem-vindo(a) ao meu perfil! 👋
 
-<p align="center">Um pouco sobre a minha jornada, atuei mais de 10 anos na area de recursos humanos e outros 3 como empreendedor, hoje estou em transição de carreira para a área que realmente amo e me identifico que é a de tecnologia. <br><br> Sou formado em Recursos Humanos e graduando em Análise e Desenvolvimento de Sistemas na FIAP uma das melhores instituições de ensino de tecnologia do pais.
+<p align="center">Minha jornada profissional é marcada por uma década de experiência na área de Recursos Humanos e outros quatro anos como empreendedor. Agora, estou embarcando em uma emocionante transição de carreira para o mundo da tecnologia, onde encontrei minha verdadeira paixão e propósito. 🚀
+
+<p align="center">Sou formado em Recursos Humanos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas na renomada FIAP, uma das principais instituições de ensino de tecnologia do país. Essa combinação única de habilidades interpessoais e conhecimentos técnicos me permite abordar os desafios de forma criativa e eficiente. 🎓💻
+
+<p align="center">Estou em busca de uma oportunidade para aplicar meu potencial na área de tecnologia, onde possa contribuir com ideias inovadoras, alta performance e foco absoluto em resultados. Meu objetivo é me desenvolver continuamente, aprimorando minhas habilidades e colaborando com equipes talentosas para criar soluções impactantes. 🌟💡
  
- <p align="center">Atualmente busco uma oportunidade de ingressar na área e me desenvolver cada vez mais com novas ideias, boa performance e foco nos resultados.</p>&nbsp;
+ <p align="center">Se você está procurando alguém comprometido, versátil e apaixonado por tecnologia, vamos conversar! Estou ansioso para fazer parte de projetos desafiadores e contribuir para o sucesso da sua empresa. 😊🤝</p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagoassisdev&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-perfil-personalizacao.vercel.app/api/top-langs/?username=thiagoassisdev&show_icons=true&theme=radical&layout=compact" />
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagoassisdev&theme=radical&mode=weekly" />
